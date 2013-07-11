@@ -1,0 +1,9 @@
+n = 10000
+0: Scatter A시작
+0: Scatter A완료
+0: Bcast B시작
+0: Bcast B완료
+XXXXXXXXXXXXXXXX!
+0: Gather 시작
+0: Gather 완료
+Check Time: 0.000000

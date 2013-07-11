@@ -1,0 +1,42 @@
+Warning: Permanently added '[c19]:22554,[192.168.0.119]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c17]:22554,[192.168.0.117]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c10]:22554,[192.168.0.110]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c12]:22554,[192.168.0.112]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c16]:22554,[192.168.0.116]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c11]:22554,[192.168.0.111]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c14]:22554,[192.168.0.114]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c22]:22554,[192.168.0.122]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c20]:22554,[192.168.0.120]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c23]:22554,[192.168.0.123]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c21]:22554,[192.168.0.121]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c37]:22554,[192.168.0.137]:22554' (RSA) to the list of known hosts.
+0: 1 요청 시작
+0: 2 요청 시작
+0: 3 요청 시작
+0: 4 요청 시작
+0: 5 요청 시작
+0: 6 요청 시작
+0: 7 요청 시작
+0: 8 요청 시작
+0: 9 요청 시작
+0: 10 요청 시작
+0: 11 요청 시작
+0: 12 요청 시작
+0: 13 요청 시작
+0: 14 요청 시작
+0: 15 요청 시작
+[[11114,1],1][btl_openib_component.c:3462:handle_wc] from c10 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1923f20 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],4][btl_openib_component.c:3462:handle_wc] from c13 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1240e80 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],12][btl_openib_component.c:3462:handle_wc] from c21 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 7fd001c01bc0 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],3][btl_openib_component.c:3462:handle_wc] from c12 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 225cf20 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],11][btl_openib_component.c:3462:handle_wc] from c20 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1a69e40 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],2][btl_openib_component.c:3462:handle_wc] from c11 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 10a0f20 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],5][btl_openib_component.c:3462:handle_wc] from c14 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1248ea0 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],7][btl_openib_component.c:3462:handle_wc] from c16 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 21e2f20 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],8][btl_openib_component.c:3462:handle_wc] from c17 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 80df20 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],9][btl_openib_component.c:3462:handle_wc] from c18 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 17f3f20 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],15][btl_openib_component.c:3462:handle_wc] from c37 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 19a5e40 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],6][btl_openib_component.c:3462:handle_wc] from c15 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 2512e40 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],10][btl_openib_component.c:3462:handle_wc] from c19 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1179f20 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],13][btl_openib_component.c:3462:handle_wc] from c22 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id b32ec0 opcode 0  vendor error 105 qp_idx 3
+[[11114,1],14][btl_openib_component.c:3462:handle_wc] from c23 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 25bbf20 opcode 0  vendor error 105 qp_idx 3

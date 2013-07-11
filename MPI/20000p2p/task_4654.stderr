@@ -1,0 +1,25 @@
+Warning: Permanently added '[c11]:22554,[192.168.0.111]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c10]:22554,[192.168.0.110]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c12]:22554,[192.168.0.112]:22554' (RSA) to the list of known hosts.
+0: 1 요청 시작
+0: 2 요청 시작
+0: 3 요청 시작
+[[19458,1],3][btl_openib_component.c:3462:handle_wc] from c12 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1d28de0 opcode 0  vendor error 105 qp_idx 3
+[[19458,1],2][btl_openib_component.c:3462:handle_wc] from c11 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 106dde0 opcode 0  vendor error 105 qp_idx 3
+[[19458,1],1][btl_openib_component.c:3462:handle_wc] from c10 to: c09 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1215de0 opcode 0  vendor error 105 qp_idx 3
+--------------------------------------------------------------------------
+mpirun has exited due to process rank 3 with PID 23252 on
+node c12 exiting improperly. There are two reasons this could occur:
+
+1. this process did not call "init" before exiting, but others in
+the job did. This can cause a job to hang indefinitely while it waits
+for all processes to call "init". By rule, if one process calls "init",
+then ALL processes must call "init" prior to termination.
+
+2. this process called "init", but exited without calling "finalize".
+By rule, all processes that call "init" MUST call "finalize" prior to
+exiting or it will be considered an "abnormal termination"
+
+This may have caused other processes in the application to be
+terminated by signals sent by mpirun (as reported here).
+--------------------------------------------------------------------------

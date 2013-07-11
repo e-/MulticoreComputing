@@ -1,0 +1,1 @@
+thorq --add --mode single --device gpu ./bfs -s 14

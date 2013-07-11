@@ -1,0 +1,65 @@
+Warning: Permanently added '[c12]:22554,[192.168.0.112]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c13]:22554,[192.168.0.113]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c16]:22554,[192.168.0.116]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c10]:22554,[192.168.0.110]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c11]:22554,[192.168.0.111]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c15]:22554,[192.168.0.115]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c14]:22554,[192.168.0.114]:22554' (RSA) to the list of known hosts.
+n = 10000
+n = 10000
+1: Scatter A시작
+n = 10000
+2: Scatter A시작
+n = 10000
+4: Scatter A시작
+n = 10000
+n = 10000
+6: Scatter A시작
+n = 10000
+5: Scatter A시작
+3: Scatter A시작
+n = 10000
+7: Scatter A시작
+0: Scatter A시작
+1: Scatter A완료
+1: Bcast B시작
+2: Scatter A완료
+2: Bcast B시작
+3: Scatter A완료
+3: Bcast B시작
+4: Scatter A완료
+4: Bcast B시작
+5: Scatter A완료
+5: Bcast B시작
+6: Scatter A완료
+6: Bcast B시작
+0: Scatter A완료
+0: Bcast B시작
+7: Scatter A완료
+7: Bcast B시작
+0: Bcast B완료
+1: Bcast B완료
+2: Bcast B완료
+3: Bcast B완료
+4: Bcast B완료
+5: Bcast B완료
+7: Bcast B완료
+6: Bcast B완료
+7: Gather 시작
+4: Gather 시작
+3: Gather 시작
+5: Gather 시작
+1: Gather 시작
+XXXXXXXXXXXXXXXX!
+0: Gather 시작
+1: Gather 완료
+2: Gather 시작
+2: Gather 완료
+3: Gather 완료
+4: Gather 완료
+5: Gather 완료
+6: Gather 시작
+6: Gather 완료
+0: Gather 완료
+7: Gather 완료
+Check Time: 0.000000

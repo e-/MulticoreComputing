@@ -1,0 +1,46 @@
+Warning: Permanently added '[c15]:22554,[192.168.0.115]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c17]:22554,[192.168.0.117]:22554' (RSA) to the list of known hosts.
+XADJ: 8
+ndev = 10
+program created!
+program built!
+CPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+CPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+0: 0 ~ 196608
+1: 196608 ~ 212992
+2: 212992 ~ 229376
+3: 229376 ~ 245760
+4: 245760 ~ 262144
+5: 262144 ~ 458752
+6: 458752 ~ 475136
+7: 475136 ~ 491520
+8: 491520 ~ 507904
+9: 507904 ~ 524288
+0 device : XOFF: 0 ~ XENDOFF: 2325859
+kernel1 built!
+1 device : XOFF: 2325851 ~ XENDOFF: 2496995
+kernel1 built!
+2 device : XOFF: 2496993 ~ XENDOFF: 2705386
+kernel1 built!
+3 device : XOFF: 2705386 ~ XENDOFF: 2914235
+kernel1 built!
+4 device : XOFF: 2914235 ~ XENDOFF: 3122560
+kernel1 built!
+5 device : XOFF: 3122560 ~ XENDOFF: 5451085
+kernel1 built!
+6 device : XOFF: 5451085 ~ XENDOFF: 5635634
+kernel1 built!
+7 device : XOFF: 5635634 ~ XENDOFF: 5841169
+kernel1 built!
+8 device : XOFF: 5841158 ~ XENDOFF: 6009506
+kernel1 built!
+9 device : XOFF: 6009506 ~ XENDOFF: 6204016
+kernel1 built!

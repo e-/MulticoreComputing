@@ -1,0 +1,87 @@
+Warning: Permanently added '[c18]:22554,[192.168.0.118]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c24]:22554,[192.168.0.124]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c23]:22554,[192.168.0.123]:22554' (RSA) to the list of known hosts.
+XADJ: 8
+ndev = 20
+program created!
+program built!
+CPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+CPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+CPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+CPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+GPU detected!
+0: 0 ~ 98304
+1: 98304 ~ 106496
+2: 106496 ~ 114688
+3: 114688 ~ 122880
+4: 122880 ~ 131072
+5: 131072 ~ 229376
+6: 229376 ~ 237568
+7: 237568 ~ 245760
+8: 245760 ~ 253952
+9: 253952 ~ 262144
+10: 262144 ~ 360448
+11: 360448 ~ 368640
+12: 368640 ~ 376832
+13: 376832 ~ 385024
+14: 385024 ~ 393216
+15: 393216 ~ 491520
+16: 491520 ~ 499712
+17: 499712 ~ 507904
+18: 507904 ~ 516096
+19: 516096 ~ 524288
+0 device : XOFF: 0 ~ XENDOFF: 746687
+kernel1 built!
+1 device : XOFF: 746686 ~ XENDOFF: 803799
+kernel1 built!
+2 device : XOFF: 803799 ~ XENDOFF: 858978
+kernel1 built!
+3 device : XOFF: 858978 ~ XENDOFF: 930337
+kernel1 built!
+4 device : XOFF: 930337 ~ XENDOFF: 998763
+kernel1 built!
+5 device : XOFF: 998762 ~ XENDOFF: 1762585
+kernel1 built!
+6 device : XOFF: 1762585 ~ XENDOFF: 1835605
+kernel1 built!
+7 device : XOFF: 1835605 ~ XENDOFF: 1897799
+kernel1 built!
+8 device : XOFF: 1897799 ~ XENDOFF: 1958449
+kernel1 built!
+9 device : XOFF: 1958446 ~ XENDOFF: 2032788
+kernel1 built!
+10 device : XOFF: 2032788 ~ XENDOFF: 2769913
+kernel1 built!
+11 device : XOFF: 2769911 ~ XENDOFF: 2839065
+kernel1 built!
+12 device : XOFF: 2839065 ~ XENDOFF: 2905272
+kernel1 built!
+13 device : XOFF: 2905269 ~ XENDOFF: 2974779
+kernel1 built!
+14 device : XOFF: 2974777 ~ XENDOFF: 3050544
+kernel1 built!
+15 device : XOFF: 3050544 ~ XENDOFF: 3802730
+kernel1 built!
+16 device : XOFF: 3802722 ~ XENDOFF: 3852893
+kernel1 built!
+17 device : XOFF: 3852893 ~ XENDOFF: 3913576
+kernel1 built!
+18 device : XOFF: 3913576 ~ XENDOFF: 3984079
+kernel1 built!
+19 device : XOFF: 3984079 ~ XENDOFF: 4040348
+kernel1 built!

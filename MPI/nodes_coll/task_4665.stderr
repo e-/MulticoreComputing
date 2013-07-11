@@ -1,0 +1,17 @@
+Warning: Permanently added '[c44]:22554,[192.168.0.144]:22554' (RSA) to the list of known hosts.
+n = 10000
+n = 10000
+1: Scatter A시작
+0: Scatter A시작
+0: Scatter A완료
+0: Bcast B시작
+1: Scatter A완료
+1: Bcast B시작
+0: Bcast B완료
+1: Bcast B완료
+XXXXXXXXXXXXXXXX!
+0: Gather 시작
+1: Gather 시작
+0: Gather 완료
+1: Gather 완료
+Check Time: 0.000000

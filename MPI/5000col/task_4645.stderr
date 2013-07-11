@@ -1,0 +1,124 @@
+Warning: Permanently added '[c36]:22554,[192.168.0.136]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c19]:22554,[192.168.0.119]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c23]:22554,[192.168.0.123]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c37]:22554,[192.168.0.137]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c21]:22554,[192.168.0.121]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c31]:22554,[192.168.0.131]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c33]:22554,[192.168.0.133]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c18]:22554,[192.168.0.118]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c30]:22554,[192.168.0.130]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c25]:22554,[192.168.0.125]:22554' (RSA) to the list of known hosts.
+n = 5000
+n = 5000
+1: Scatter A시작
+n = 5000
+2: Scatter A시작
+n = 5000
+n = 5000
+6: Scatter A시작
+4: Scatter A시작
+n = 5000
+9: Scatter A시작
+n = 5000
+10: Scatter A시작
+n = 5000
+8: Scatter A시작
+n = 5000
+3: Scatter A시작
+n = 5000
+12: Scatter A시작
+n = 5000
+11: Scatter A시작
+n = 5000
+7: Scatter A시작
+n = 5000
+14: Scatter A시작
+n = 5000
+5: Scatter A시작
+n = 5000
+15: Scatter A시작
+n = 5000
+13: Scatter A시작
+0: Scatter A시작
+1: Scatter A완료
+1: Bcast B시작
+2: Scatter A완료
+2: Bcast B시작
+3: Scatter A완료
+3: Bcast B시작
+4: Scatter A완료
+4: Bcast B시작
+5: Scatter A완료
+5: Bcast B시작
+6: Scatter A완료
+6: Bcast B시작
+7: Scatter A완료
+7: Bcast B시작
+8: Scatter A완료
+8: Bcast B시작
+9: Scatter A완료
+9: Bcast B시작
+10: Scatter A완료
+10: Bcast B시작
+11: Scatter A완료
+11: Bcast B시작
+12: Scatter A완료
+12: Bcast B시작
+13: Scatter A완료
+13: Bcast B시작
+14: Scatter A완료
+14: Bcast B시작
+0: Scatter A완료
+0: Bcast B시작
+15: Scatter A완료
+15: Bcast B시작
+0: Bcast B완료
+1: Bcast B완료
+2: Bcast B완료
+3: Bcast B완료
+4: Bcast B완료
+5: Bcast B완료
+6: Bcast B완료
+7: Bcast B완료
+8: Bcast B완료
+9: Bcast B완료
+10: Bcast B완료
+11: Bcast B완료
+12: Bcast B완료
+13: Bcast B완료
+14: Bcast B완료
+15: Bcast B완료
+15: Gather 시작
+2: Gather 시작
+5: Gather 시작
+6: Gather 시작
+11: Gather 시작
+10: Gather 시작
+7: Gather 시작
+8: Gather 시작
+3: Gather 시작
+13: Gather 시작
+14: Gather 시작
+9: Gather 시작
+1: Gather 시작
+4: Gather 시작
+12: Gather 시작
+XXXXXXXXXXXXXXXX!
+0: Gather 시작
+1: Gather 완료
+2: Gather 완료
+3: Gather 완료
+4: Gather 완료
+5: Gather 완료
+6: Gather 완료
+7: Gather 완료
+8: Gather 완료
+9: Gather 완료
+10: Gather 완료
+11: Gather 완료
+12: Gather 완료
+13: Gather 완료
+14: Gather 완료
+0: Gather 완료
+15: Gather 완료
+Check Time: 0.000000

@@ -1,0 +1,61 @@
+Warning: Permanently added '[c23]:22554,[192.168.0.123]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c22]:22554,[192.168.0.122]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c19]:22554,[192.168.0.119]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c27]:22554,[192.168.0.127]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c20]:22554,[192.168.0.120]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c24]:22554,[192.168.0.124]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c36]:22554,[192.168.0.136]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c35]:22554,[192.168.0.135]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c33]:22554,[192.168.0.133]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c21]:22554,[192.168.0.121]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c30]:22554,[192.168.0.130]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c25]:22554,[192.168.0.125]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c31]:22554,[192.168.0.131]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c37]:22554,[192.168.0.137]:22554' (RSA) to the list of known hosts.
+Warning: Permanently added '[c18]:22554,[192.168.0.118]:22554' (RSA) to the list of known hosts.
+0: 1 요청 시작
+0: 2 요청 시작
+0: 3 요청 시작
+0: 4 요청 시작
+0: 5 요청 시작
+0: 6 요청 시작
+0: 7 요청 시작
+0: 8 요청 시작
+0: 9 요청 시작
+0: 10 요청 시작
+0: 11 요청 시작
+0: 12 요청 시작
+0: 13 요청 시작
+0: 14 요청 시작
+0: 15 요청 시작
+[[33501,1],1][btl_openib_component.c:3462:handle_wc] from c18 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 25e2f20 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],4][btl_openib_component.c:3462:handle_wc] from c21 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id d55f20 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],13][btl_openib_component.c:3462:handle_wc] from c35 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1c29f20 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],3][btl_openib_component.c:3462:handle_wc] from c20 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 162fe40 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],2][btl_openib_component.c:3462:handle_wc] from c19 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 2681f20 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],6][btl_openib_component.c:3462:handle_wc] from c23 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1d08f20 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],7][btl_openib_component.c:3462:handle_wc] from c24 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1354f20 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],15][btl_openib_component.c:3462:handle_wc] from c37 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id f4ee40 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],10][btl_openib_component.c:3462:handle_wc] from c30 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1066e40 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],14][btl_openib_component.c:3462:handle_wc] from c36 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1168f20 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],9][btl_openib_component.c:3462:handle_wc] from c27 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1bcbf20 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],11][btl_openib_component.c:3462:handle_wc] from c31 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1019f20 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],8][btl_openib_component.c:3462:handle_wc] from c25 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 1d12f20 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],5][btl_openib_component.c:3462:handle_wc] from c22 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id 141aec0 opcode 0  vendor error 105 qp_idx 3
+[[33501,1],12][btl_openib_component.c:3462:handle_wc] from c33 to: c17 error polling LP CQ with status LOCAL LENGTH ERROR status number 1 for wr_id bbdf20 opcode 0  vendor error 105 qp_idx 3
+--------------------------------------------------------------------------
+mpirun has exited due to process rank 1 with PID 24926 on
+node c18 exiting improperly. There are two reasons this could occur:
+
+1. this process did not call "init" before exiting, but others in
+the job did. This can cause a job to hang indefinitely while it waits
+for all processes to call "init". By rule, if one process calls "init",
+then ALL processes must call "init" prior to termination.
+
+2. this process called "init", but exited without calling "finalize".
+By rule, all processes that call "init" MUST call "finalize" prior to
+exiting or it will be considered an "abnormal termination"
+
+This may have caused other processes in the application to be
+terminated by signals sent by mpirun (as reported here).
+--------------------------------------------------------------------------
